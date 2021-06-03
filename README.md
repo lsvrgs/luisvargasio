@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @luisvargasio
-- 👀  I’m interested in product management
-- 🌱  I’m currently learning blogging on Ghost
-- 💞️  I’m looking to collaborate on startup ideas
+- 🏗️  I like to tinker with things
+- 🌱  I’m currently learning how to build websites
+- 💞️  Let's collaborate on the next big thing
 - 📫  Email me at hello@luisvargas.io
 
 <!---
